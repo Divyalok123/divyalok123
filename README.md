@@ -1,5 +1,7 @@
 <h3>Hi there 👋, I'm Divyalok </h3>
+<hr>
 Who I am? A shy noob trying to learn something new everday. <br> Currently, pursuing B.Tech. from Delhi Technological University (formerly DCE). <br>
+<hr>
 📫 How to reach me? 
 <ul>
   <li>https://www.linkedin.com/in/divyalok-j-69a314134/ </li>
