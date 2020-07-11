@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3>Hi there 👋, I'm Divyalok </h3>
+Who I am? A shy noob trying to learn something new everday.
+📫 How to reach me? divyjais2001@gmail.com
 
 <!--
 **Divyalok123/divyalok123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
