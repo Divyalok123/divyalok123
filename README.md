@@ -1,6 +1,12 @@
 <h3>Hi there 👋, I'm Divyalok </h3>
-Who I am? A shy noob trying to learn something new everday. <br>
-📫 How to reach me? divyjais2001@gmail.com
+Who I am? A shy noob trying to learn something new everday. <br> Currently, pursuing B.Tech. from Delhi Technological University.
+📫 How to reach me? 
+<ul>
+  <li>https://www.linkedin.com/in/divyalok-j-69a314134/ </li>
+  <li>divyjais2001@gmail.com</li>
+</ul>
+
+
 
 <!--
 **Divyalok123/divyalok123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
