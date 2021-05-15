@@ -1,6 +1,6 @@
 <h3>Hi there 👋, I'm Divyalok </h3>
 --------</br>
-Who I am? Someone trying to learn something everyday. <br> Currently, pursuing B.Tech. from Delhi Technological University (formerly DCE). <br>
+Currently, pursuing B.Tech. from Delhi Technological University (formerly DCE). <br>I love development and problem solving.<br>
 --------</br>
 📫 How to reach me? 
 <ul>
